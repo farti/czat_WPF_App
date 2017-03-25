@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "czat_WPF_App", "czat_WPF_App\czat_WPF_App.csproj", "{40CCE175-4F57-48E1-8B40-6C505E4DA2A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klient", "czat_WPF_App\Klient.csproj", "{40CCE175-4F57-48E1-8B40-6C505E4DA2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serwer", "Serwer\Serwer.csproj", "{37803D88-042C-4F20-9327-B52FDDCF37F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{40CCE175-4F57-48E1-8B40-6C505E4DA2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40CCE175-4F57-48E1-8B40-6C505E4DA2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40CCE175-4F57-48E1-8B40-6C505E4DA2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37803D88-042C-4F20-9327-B52FDDCF37F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37803D88-042C-4F20-9327-B52FDDCF37F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37803D88-042C-4F20-9327-B52FDDCF37F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37803D88-042C-4F20-9327-B52FDDCF37F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
